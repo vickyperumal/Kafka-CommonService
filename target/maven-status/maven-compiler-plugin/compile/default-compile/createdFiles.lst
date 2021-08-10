@@ -1,0 +1,6 @@
+com\kafka\common\model\ServiceResponse.class
+com\kafka\common\model\LoanDetails.class
+com\kafka\common\model\ProcessLoanDetails$ProcessLoanDetailsBuilder.class
+com\kafka\common\model\ServiceResponse$ServiceResponseBuilder.class
+com\kafka\common\model\LoanDetails$LoanDetailsBuilder.class
+com\kafka\common\model\ProcessLoanDetails.class
