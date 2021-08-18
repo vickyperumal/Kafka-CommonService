@@ -13,10 +13,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 public class LoanDetails {
-	
+	@NotEmpty(message="Loan type should not be empty")
 	private String loanType;
 	private Long loanAmount;
-	
+	private Long loanId;
 	private String loanDate;
 	private Double rateOfInterest;
 	private Integer loanDuration;
